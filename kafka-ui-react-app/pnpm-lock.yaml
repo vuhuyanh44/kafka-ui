@@ -21,8 +21,8 @@ dependencies:
     specifier: ^1.8.3
     version: 1.8.3(react-redux@8.0.2)(react@18.2.0)
   '@szhsin/react-menu':
-    specifier: ^3.5.3
-    version: 3.5.3(react-dom@18.1.0)(react@18.2.0)
+    specifier: ^4.1.0
+    version: 4.1.0(react-dom@18.1.0)(react@18.2.0)
   '@tanstack/react-query':
     specifier: ^4.0.5
     version: 4.0.5(react-dom@18.1.0)(react@18.2.0)
@@ -1560,8 +1560,8 @@ packages:
       jsonc-parser: 3.2.0
     dev: true
 
-  /@szhsin/react-menu@3.5.3(react-dom@18.1.0)(react@18.2.0):
-    resolution: {integrity: sha512-jxo8oaRwxmVjUzkyOi/ZJiXaZiuFPMIxFzyJdUKfnhBLYiEOVTU9M2CiPuEkirILoareR2GJj2K3y8a81CBPlw==}
+  /@szhsin/react-menu@4.1.0(react-dom@18.1.0)(react@18.2.0):
+    resolution: {integrity: sha512-lYYGUxqJxM2b/jD2Cn5a9RVOvHl9VBMX8qOnHZuX1w08cO2jslykpz5P75D7WnqudLnXsJ4k4+tI+q2U8XIFYw==}
     peerDependencies:
       react: '>=16.14.0'
       react-dom: '>=16.14.0'
@@ -1569,7 +1569,7 @@ packages:
       prop-types: 15.8.1
       react: 18.2.0
       react-dom: 18.1.0(react@18.2.0)
-      react-transition-state: 1.1.5(react-dom@18.1.0)(react@18.2.0)
+      react-transition-state: 2.1.1(react-dom@18.1.0)(react@18.2.0)
     dev: false
 
   /@tanstack/query-core@4.0.5:
@@ -5837,8 +5837,8 @@ packages:
       react: 18.2.0
     dev: false
 
-  /react-transition-state@1.1.5(react-dom@18.1.0)(react@18.2.0):
-    resolution: {integrity: sha512-ITY2mZqc2dWG2eitJkYNdcSFW8aKeOlkL2A/vowRrLL8GH3J6Re/SpD/BLvQzrVOTqjsP0b5S9N10vgNNzwMUQ==}
+  /react-transition-state@2.1.1(react-dom@18.1.0)(react@18.2.0):
+    resolution: {integrity: sha512-kQx5g1FVu9knoz1T1WkapjUgFz08qQ/g1OmuWGi3/AoEFfS0kStxrPlZx81urjCXdz2d+1DqLpU6TyLW/Ro04Q==}
     peerDependencies:
       react: '>=16.8.0'
       react-dom: '>=16.8.0'
